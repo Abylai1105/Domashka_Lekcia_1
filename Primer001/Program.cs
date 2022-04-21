@@ -14,11 +14,11 @@ else
     if (firstNumber > secondNumber)
     {
         Console.Write(firstNumber);
-        Console.WriteLine("Первое число больше");
+        Console.WriteLine("max = first");
     }
     else
     {
         Console.Write(secondNumber);
-        Console.WriteLine("Второе число больше");
+        Console.WriteLine("max = second");
     }
 }
