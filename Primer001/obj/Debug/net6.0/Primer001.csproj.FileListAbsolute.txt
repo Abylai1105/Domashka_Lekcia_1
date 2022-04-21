@@ -1,0 +1,15 @@
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_1/Primer001/bin/Debug/net6.0/Primer001
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_1/Primer001/bin/Debug/net6.0/Primer001.deps.json
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_1/Primer001/bin/Debug/net6.0/Primer001.runtimeconfig.json
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_1/Primer001/bin/Debug/net6.0/Primer001.dll
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_1/Primer001/bin/Debug/net6.0/Primer001.pdb
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_1/Primer001/obj/Debug/net6.0/Primer001.csproj.AssemblyReference.cache
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_1/Primer001/obj/Debug/net6.0/Primer001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_1/Primer001/obj/Debug/net6.0/Primer001.AssemblyInfoInputs.cache
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_1/Primer001/obj/Debug/net6.0/Primer001.AssemblyInfo.cs
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_1/Primer001/obj/Debug/net6.0/Primer001.csproj.CoreCompileInputs.cache
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_1/Primer001/obj/Debug/net6.0/Primer001.dll
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_1/Primer001/obj/Debug/net6.0/refint/Primer001.dll
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_1/Primer001/obj/Debug/net6.0/Primer001.pdb
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_1/Primer001/obj/Debug/net6.0/Primer001.genruntimeconfig.cache
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_1/Primer001/obj/Debug/net6.0/ref/Primer001.dll
